@@ -209,6 +209,7 @@ h6 {
   }
 }
 /* End of Banner */
+/* Services */
 /* Title */
 .section-title {
   text-align: center;
@@ -252,6 +253,7 @@ h6 {
 }
 .services h6 {
   letter-spacing: var(--mainSpacing);
+  text-transform: capitalize;
 }
 .services p {
   width: 80%;
